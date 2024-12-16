@@ -2,3 +2,5 @@
 
 # scaffold
 this is a project scaffold for Python
+
+Pulled from [Noah Gift's repo](https://github.com/noahgift/scaffold)
